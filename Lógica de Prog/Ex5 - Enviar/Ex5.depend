@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602866147 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\trabalhos\2-bimestre\lista02\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603924129 source:c:\users\pichau\desktop\2 semestre\algoritmos\trabalhos\2-bimestre\lista02\ex5 - enviar\main.c
+	<stdio.h>
+	<conio.h>
+

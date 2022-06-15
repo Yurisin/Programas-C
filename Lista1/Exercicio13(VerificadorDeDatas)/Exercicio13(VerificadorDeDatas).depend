@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600532200 source:c:\users\pichau\desktop\exercicio13(verificadordedatas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

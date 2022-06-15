@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605127803 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\trabalhos\2-bimestre\lista03-funcoes\ex8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

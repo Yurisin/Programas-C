@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605820667 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\trabalhos\2-bimestre\exerciciomatriz(10x10)copiamaioresparaoutrovet\exerciciomatriz(10x10)copiamaioresparaoutrovet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

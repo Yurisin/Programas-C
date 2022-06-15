@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599602761 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\lista1clasroom\exercicio6(formula de heron)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

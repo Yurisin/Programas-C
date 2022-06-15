@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600989097 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\prova\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

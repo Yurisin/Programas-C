@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604013841 source:c:\users\pichau\desktop\faculdade\2 semestre\algoritmos\algoritmos aulas\aulastring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
